@@ -1,0 +1,7 @@
+{
+  "host": "client-management.csb9k31xv3xy.us-east-2.rds.amazonaws.com",
+  "user": "tjdytpq0310",
+  "password": "tt0635tt0635",
+  "port": "3306",
+  "database": "clientmanagement"
+}
